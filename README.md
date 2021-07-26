@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- btw this is my other account as my main @ElectronicsBoy got suspended, i only made this only to do the whitehat projects
-
 <!---
 ElectronicsBoy2/ElectronicsBoy2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![image](https://user-images.githubusercontent.com/84452725/126979932-65e4effe-45d3-4663-bf8d-8931427b8e6c.png)
+
